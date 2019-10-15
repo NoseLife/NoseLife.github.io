@@ -1,1 +1,2 @@
-# NOSElife.github.io
+# Initial page
+
